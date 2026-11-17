@@ -1,5 +1,5 @@
 <div align="center">
-<img src="portfolio-assets/cover.svg" width="100%" alt="Drone Stateflow Experiment project cover">
+<img src="https://raw.githubusercontent.com/Ace-Alch/Ace-Alch.github.io/main/banners/drone-stateflow-experiment.webp" width="100%" alt="drone-stateflow-experiment — concept artwork">
 
 # Drone Stateflow Experiment
 
